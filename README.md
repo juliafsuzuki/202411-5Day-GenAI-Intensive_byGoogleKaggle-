@@ -2,27 +2,27 @@
 
 **Day 1**: Foundational Models & Prompt Engineering 
 
-> Learning Objective:
-Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
+Learning Objective:
+- Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
 
-> Kaggle Notebook:
+Kaggle Notebook:
 1. Learn prompting fundamentals
-https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering
+>> https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering
 
 -----
 
 **Day 2**: Embeddings and Vector Stores/Databases 
 
-> Learning Objective:
+Learning Objective:
 Learn about the conceptual underpinning of embeddings and vector databases, including embedding methods, vector search algorithms, and real-world applications with LLMs, as well as their tradeoffs.
 
-> Kaggle Notebooks:
+Kaggle Notebooks:
 1.	Build a RAG question-answering system over custom documents
-https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745
+>> https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745
 3.	Explore text similarity with embeddings
-https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores 
+>> https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores 
 4.	Build a neural classification network with Keras using embeddings
-https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras
+>> https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras
 
 -----
 
