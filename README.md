@@ -1,13 +1,11 @@
 ![image](https://github.com/user-attachments/assets/6bbbc492-345f-4627-9c4e-93ae4268c76f)
 
-About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
-
-
-
 👋 Hello - 
 
 I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle. 
 I've compiled all of the Kaggle notebooks that I created in this GitHub repository.
+
+About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
 -----
 
