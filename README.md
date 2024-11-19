@@ -17,7 +17,7 @@ Explore the evolution of LLMs, from transformers to techniques like fine-tuning 
 
 Kaggle Notebook:
 1. Learn prompting fundamentals
-> https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering
+> 1. https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering
 
 -----
 
