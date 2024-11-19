@@ -3,6 +3,7 @@
 👋 Hello - 
 
 I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle. 
+
 I compiled all Kaggle notebooks I created for the course in this GitHub repository.
 
 About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
