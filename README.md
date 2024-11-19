@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6bbbc492-345f-4627-9c4e-93ae4268c76f)
+URL: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
+
 # 2024 Nov Google Kaggle 5 Day Gen AI Intensive Course
 
 **Day 1**: Foundational Models & Prompt Engineering 
