@@ -2,6 +2,8 @@
 
 About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
+
+
 👋 Hello - 
 
 I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle. 
