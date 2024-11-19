@@ -31,9 +31,9 @@ Kaggle Notebooks:
 2. Explore text similarity with embeddings
 3. Build a neural classification network with Keras using embeddings
 
-> https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745
-> https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores
-> https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras
+> 1. https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745
+> 2. https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores
+> 3. https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras
 
 -----
 
