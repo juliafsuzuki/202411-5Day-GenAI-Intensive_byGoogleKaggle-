@@ -1,7 +1,11 @@
 ![image](https://github.com/user-attachments/assets/6bbbc492-345f-4627-9c4e-93ae4268c76f)
-URL: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
-# 2024 Nov Google Kaggle 5 Day Gen AI Intensive Course
+👋 Hello - 
+
+I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle. 
+I've compiled all of the Kaggle notebooks that I created in this GitHub repository.
+
+Learn more: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
 **Day 1**: Foundational Models & Prompt Engineering 
 
