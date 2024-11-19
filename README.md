@@ -1,0 +1,1 @@
+# 202411-GoogleKaggle-5Day-GenAI-IntensiveCourse-
