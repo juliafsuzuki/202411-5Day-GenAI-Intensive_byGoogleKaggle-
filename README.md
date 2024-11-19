@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6bbbc492-345f-4627-9c4e-93ae4268c76f)
 
-Learn about the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
+About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
 👋 Hello - 
 
