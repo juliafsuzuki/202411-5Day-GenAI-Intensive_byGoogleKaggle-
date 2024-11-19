@@ -8,6 +8,8 @@ I compiled all Kaggle notebooks I created for the course in this GitHub reposito
 
 About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
+YouTube Playlist: https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es
+
 -----
 
 **Day 1**: Foundational Models & Prompt Engineering 
