@@ -41,7 +41,7 @@ Learn to build sophisticated AI agents by understanding their core components an
 
 Kaggle Notebooks:
 1. [Talk to a database with function calling](https://www.kaggle.com/code/juliasuzuki/day-3-function-calling-with-the-gemini-api#Try-it!)
-2. Build an agentic ordering system in LangGraph
+2. Build an agentic ordering system in LangGraph >> [Link: ](https://www.kaggle.com/code/juliasuzuki/day-3-building-an-agent-with-langgraph?scriptVersionId=208901539)
 
 -----
 
