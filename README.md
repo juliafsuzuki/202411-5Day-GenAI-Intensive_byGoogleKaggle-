@@ -18,8 +18,7 @@ Learning Objective:
 Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
 
 Kaggle Notebook:
-1. Learn prompting fundamentals
-> 1. https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering
+1. [Learn prompting fundamentals](https://www.kaggle.com/code/juliasuzuki/day-1-llm-prompt-engineering) 
 
 -----
 
@@ -29,13 +28,9 @@ Learning Objective:
 Learn about the conceptual underpinning of embeddings and vector databases, including embedding methods, vector search algorithms, and real-world applications with LLMs, as well as their tradeoffs.
 
 Kaggle Notebooks:
-1. Build a RAG question-answering system over custom documents
-2. Explore text similarity with embeddings
-3. Build a neural classification network with Keras using embeddings
-
-> 1. https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745
-> 2. https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores
-> 3. https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras
+1. [Build a RAG question-answering system over custom documents](https://www.kaggle.com/code/juliasuzuki/day-2-document-q-a-with-rag?scriptVersionId=208487745)
+2. [Explore text similarity with embeddings](https://www.kaggle.com/code/juliasuzuki/day-2-embeddings-and-similarity-scores)
+3. [Build a neural classification network with Keras using embeddings](https://www.kaggle.com/code/juliasuzuki/day-2-classifying-embeddings-with-keras)
 
 -----
 
@@ -45,10 +40,8 @@ Learning Objective:
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
 Kaggle Notebooks:
-> 1. Talk to a database with function calling
->>  
-> 2. Build an agentic ordering system in LangGraph
->> 
+1. [Talk to a database with function calling](https://www.kaggle.com/code/juliasuzuki/day-3-function-calling-with-the-gemini-api#Try-it!)
+2. Build an agentic ordering system in LangGraph
 
 -----
 
