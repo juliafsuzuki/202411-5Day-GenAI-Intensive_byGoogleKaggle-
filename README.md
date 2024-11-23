@@ -56,11 +56,9 @@ Kaggle Notebooks:
 
 -----
 
-**Day 5**: MLOps for Generative AI + Gemini API Features 
+**Day 5**: Gemini API Features 
 
-Learning Objective:
-- Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
-- Learn extra Gemini API features (bonus lesson)
+Learning Objective: Learn extra Gemini API features (bonus lesson)
 
 Kaggle Notebook:
 1. Extra Gemini API Features: [Link](https://www.kaggle.com/code/juliasuzuki/bonus-day-extra-gemini-api-features?scriptVersionId=209226299)
