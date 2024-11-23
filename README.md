@@ -51,12 +51,15 @@ Learning Objective:
 Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
 Kaggle Notebooks:
-1. Use Google Search data in generation >> [Link]()
-2. Tune a Gemini model for a custom task >> [Link]()
+1. Ground with Google Search >> [Link](https://www.kaggle.com/code/juliasuzuki/day-4-google-search-grounding?scriptVersionId=209213838)
+2. Use Gemini API to fine-tune a custom, task-specific model >> [Link](https://www.kaggle.com/code/juliasuzuki/day-4-fine-tuning-a-custom-model?scriptVersionId=209221544)
 
 -----
 
-**Day 5**: MLOps for Generative AI 
+**Day 5**: MLOps for Generative AI + Bonus Lesson 
 
 Learning Objective:
 Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+Kaggle Notebook:
+1. Extra Gemini API Features >> [Link](https://www.kaggle.com/code/juliasuzuki/bonus-day-extra-gemini-api-features?scriptVersionId=209226299)
