@@ -59,11 +59,11 @@ Kaggle Notebooks:
 
 **Day 5**: Gemini API Features 
 
------
-
 Learning Objective: Learn extra Gemini API features (bonus lesson)
 
 Kaggle Notebook:
 1. Extra Gemini API Features: [Link](https://www.kaggle.com/code/juliasuzuki/bonus-day-extra-gemini-api-features?scriptVersionId=209226299)
+
+-----
 
 ![20241123 - 5 Day Gen AI Intensive Course Completed](https://github.com/user-attachments/assets/d7bc8d09-a2df-46e2-a000-1d9957aa88db)
