@@ -12,7 +12,7 @@ About the course: [Link](https://rsvp.withgoogle.com/events/google-generative-ai
 
 -----
 
-**Day 1**: Foundational Models & Prompt Engineering 
+**Day 1**: Foundational Large Language Models, Text Generation, & Prompt Engineering
 
 Learning Objective:
 Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
@@ -34,7 +34,7 @@ Kaggle Notebooks:
 
 -----
 
-**Day 3**: Generative AI Agents 
+**Day 3**: Generative AI Agents  
 
 Learning Objective:
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
@@ -51,10 +51,8 @@ Learning Objective:
 Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
 Kaggle Notebooks:
-> 1. Use Google Search data in generation
->> 
-> 2. Tune a Gemini model for a custom task
->>
+1. Use Google Search data in generation >> [Link: ]()
+2. Tune a Gemini model for a custom task >> [Link: ]()
 
 -----
 
