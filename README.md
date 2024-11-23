@@ -4,7 +4,7 @@
 
 I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle. 
 
-I compiled all Kaggle notebooks I created for the course in this GitHub repository.
+I compiled all Kaggle notebooks for the course (i.e. updated the original Kaggle notebooks with my experiments) in this GitHub repository.
 
 Gen AI Intensive Course Curriculum: [Link](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
 
