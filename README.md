@@ -6,9 +6,11 @@ I joined the 5-Day Gen AI Intensive course offered by Google + Kaggle.
 
 I compiled all Kaggle notebooks I created for the course in this GitHub repository.
 
-About the course: https://rsvp.withgoogle.com/events/google-generative-ai-intensive
+5-Day Gen AI Intensive Course with Google >> [Link](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
 
-YouTube Playlist: https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es
+About the course: [Link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
+
+YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 
 -----
 
