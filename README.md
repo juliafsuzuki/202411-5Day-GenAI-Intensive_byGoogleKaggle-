@@ -59,6 +59,8 @@ Kaggle Notebooks:
 
 **Day 5**: Gemini API Features 
 
+-----
+
 Learning Objective: Learn extra Gemini API features (bonus lesson)
 
 Kaggle Notebook:
