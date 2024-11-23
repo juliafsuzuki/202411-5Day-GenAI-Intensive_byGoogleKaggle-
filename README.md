@@ -7,8 +7,6 @@ I completed the 5-Day Gen AI Intensive course offered by Google + Kaggle and doc
 - Gen AI Intensive Course Curriculum: [Link](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
 - Kaggle notebooks; I've updated the original tutorial notebooks created by the Google + Kaggle teams with experiments
 
-![20241123 - 5 Day Gen AI Intensive Course Completed](https://github.com/user-attachments/assets/d7bc8d09-a2df-46e2-a000-1d9957aa88db)
-
 Resources:
 - About the course: [Link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
 - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
@@ -65,3 +63,5 @@ Learning Objective: Learn extra Gemini API features (bonus lesson)
 
 Kaggle Notebook:
 1. Extra Gemini API Features: [Link](https://www.kaggle.com/code/juliasuzuki/bonus-day-extra-gemini-api-features?scriptVersionId=209226299)
+
+![20241123 - 5 Day Gen AI Intensive Course Completed](https://github.com/user-attachments/assets/d7bc8d09-a2df-46e2-a000-1d9957aa88db)
