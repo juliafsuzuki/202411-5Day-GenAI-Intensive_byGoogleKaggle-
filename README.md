@@ -6,10 +6,10 @@ I completed the 5-Day Gen AI Intensive course offered by Google + Kaggle and doc
 
 1. Gen AI Intensive Course Curriculum: [Link](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
    - Foundational LLMs & Prompt Engineering
- - Embeddings & Vector databases
- - Generative Agents
- - Domain-specific LLMs
- - MLOps for Generative AI 
+   - Embeddings & Vector databases
+   - Generative Agents
+   - Domain-specific LLMs
+   - MLOps for Generative AI 
 
 2. Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.
 
