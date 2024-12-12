@@ -16,6 +16,7 @@ I completed the 5-Day Gen AI Intensive course offered by Google + Kaggle and doc
 Resources:
 - About the course: [Link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
 - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
+- Blog, "Why over 140,000 developers took the five-day Generative AI course: [link](https://blog.google/technology/developers/google-kaggle-genai-intensive)
 
 -----
 
